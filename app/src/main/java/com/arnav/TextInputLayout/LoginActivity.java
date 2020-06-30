@@ -21,6 +21,7 @@ public class  LoginActivity extends AppCompatActivity {
     TextView register;
     boolean isEmailValid, isPasswordValid;
     TextInputLayout emailError, passError;
+    // error
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
